@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">easyGOBand</string>
+
+    <string name="searchfor_providerid">Search For Access Provider Id</string>
+    <string name="btn_search">Search</string>
+
+    <string name="providerslist">Access Providers List</string>
+
+    <string name="provider_detail">Access Provider Detail</string>
+    <string name="lblId">ID</string>
+    <string name="lblName">Name</string>
+    <string name="lblAccessGroupId">Access Group ID</string>
+    <string name="lblAccessGroupName">Access Group Name</string>
+    <string name="lblTotalUses">Total Uses</string>
+    <string name="lblSessions">Sessions</string>
+    <string name="lblSessionId">Session ID</string>
+    <string name="lblSessionName">Session Name</string>
+    <string name="lblEventId">Event ID</string>
+    <string name="lblStructureDecode">Structure Decode</string>
+    <string name="lblModified">Modified</string>
+    <string name="lblBasicProductId">Basic Product ID</string>
+</resources>
