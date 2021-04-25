@@ -1,2 +1,0 @@
-# easyGOBand
-Recruitment Test
